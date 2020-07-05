@@ -1,7 +1,7 @@
 # Arch-Silence theme for GRUB2
 #
 # Copyright (C) 2015 Filippo Ghibellini
-
+# Edited By Ybenel For DarkOs (2020)
 #general settings
 title-text: ""
 desktop-color: "#000"
